@@ -20,7 +20,7 @@ namespace WindowsFormsApplication4
         private void openButton_Click(object sender, EventArgs e)
         {
             openButton.Hide();
-            //
+            
             
             Graphics formGraphics = this.CreateGraphics();
             formGraphics.Clear(Color.Black);
