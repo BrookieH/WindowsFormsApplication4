@@ -36,9 +36,9 @@
             this.openButton.BackColor = System.Drawing.Color.Cornsilk;
             this.openButton.Font = new System.Drawing.Font("Sitka Small", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.openButton.ForeColor = System.Drawing.Color.DarkRed;
-            this.openButton.Location = new System.Drawing.Point(58, 12);
+            this.openButton.Location = new System.Drawing.Point(72, 34);
             this.openButton.Name = "openButton";
-            this.openButton.Size = new System.Drawing.Size(152, 111);
+            this.openButton.Size = new System.Drawing.Size(172, 146);
             this.openButton.TabIndex = 0;
             this.openButton.Text = "Open Greeting Card\r\n";
             this.openButton.UseVisualStyleBackColor = false;
@@ -49,7 +49,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(317, 296);
             this.Controls.Add(this.openButton);
             this.Name = "Form1";
             this.Text = "Form1";
