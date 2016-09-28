@@ -49,7 +49,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(317, 296);
+            this.ClientSize = new System.Drawing.Size(325, 305);
             this.Controls.Add(this.openButton);
             this.Name = "Form1";
             this.Text = "Form1";
