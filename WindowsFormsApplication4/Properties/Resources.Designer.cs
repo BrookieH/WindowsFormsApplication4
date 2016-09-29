@@ -68,5 +68,14 @@ namespace WindowsFormsApplication4.Properties {
                 return ResourceManager.GetStream("Star", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Star2 {
+            get {
+                return ResourceManager.GetStream("Star2", resourceCulture);
+            }
+        }
     }
 }

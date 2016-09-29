@@ -121,4 +121,7 @@
   <data name="Star" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Robot_blip-Marianne_Gagnon-120342607 (1).wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Star2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Robot_blip_2-Marianne_Gagnon-299056732.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
